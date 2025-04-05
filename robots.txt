@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://metanail-serum-pro.vercel.app/sitemap.xml
+Sitemap: https://metanail-complex.vercel.app/sitemap.xml
