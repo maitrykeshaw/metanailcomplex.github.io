@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Metanail Complex™ - Official Website",
+  "short_name":"Metanail Complex™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Metanail Complex is a product that has been designed to offer superior and long-lasting results for healthy nails and beautiful feet.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
